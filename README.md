@@ -2,5 +2,5 @@
 
      Aenderungen durchgefuehrt
 
-      nochaml durchführt
+      nochmal durchführt
   
